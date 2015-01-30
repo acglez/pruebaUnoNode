@@ -15,3 +15,4 @@ Node es un intérprete Javascript del lado del servidor. Su meta es permitir a u
 2. Escriba la orden "node" para entrar en la consola de node.JS.
 3. Escriba: "console.log('Hola Mundo')".
 ![](./img/nodeHolaMundo.png)
+#Bibliografía.
