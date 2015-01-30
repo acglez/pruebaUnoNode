@@ -17,4 +17,14 @@ Node es un intérprete Javascript del lado del servidor. Su meta es permitir a u
 3. Escriba: "console.log('Hola Mundo')".
 ![](./img/nodeHolaMundo.png)
 
+## Ejemplo de una suma en node.js.
+1. Escriba en la consola de node la siguiente sentencia: "5 + 7", verá que obtendrá el resultado de la operación.
+![](./img/cincoMasSiete.png)
+
+## Salir de la consola de node.js.
+1. Presione ctr-c dos veces para salir.
+![](./img/salir.png)
+
 #Bibliografía.
+* Pérez, Mario. Node.JS - Primeros pasos y "Hola Mundo" | Geeky Theory [En línea].<http://geekytheory.com/node-js-primeros-pasos-y-hola-mundo/> [Consulta: Enero 2015].
+* Kiessling, Manuel, Junge, Herman. El Libro para Principiantes en Node.js» Un tutorial completo de node.js [En línea].<http://www.nodebeginner.org/index-es.html> [Consulta: Enero 2015].
