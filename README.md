@@ -19,10 +19,12 @@ Node es un intérprete Javascript del lado del servidor. Su meta es permitir a u
 
 ## Ejemplo de una suma en node.js.
 1. Escriba en la consola de node la siguiente sentencia: "5 + 7", verá que obtendrá el resultado de la operación.
+
 ![](./img/cincoMasSiete.png)
 
 ## Salir de la consola de node.js.
 1. Presione ctr-c dos veces para salir.
+
 ![](./img/salir.png)
 
 #Bibliografía.
