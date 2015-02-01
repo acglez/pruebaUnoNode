@@ -1,6 +1,6 @@
 Práctica 1. Tutorial Node.JS
 ============================
-![](./img/logoNode.jpg)
+![](./logoNode.jpg)
 #¿Qué es Node.JS?
 Node es un intérprete Javascript del lado del servidor. Su meta es permitir a un programador construir aplicaciones altamente escalábles y escribir código que maneje decenas de miles de conexiones simultáneas en una sólo una máquina física.
 #Instalación de Node.JS en Mac.
